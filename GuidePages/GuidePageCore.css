@@ -1,0 +1,158 @@
+#ULIndex {
+    border: solid 1px black;
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 25px;
+    margin-left: 20px;
+    display: inline-block;
+    background-color:  #674cff13;
+    z-index: 10;
+}
+#Title {
+    font-size: 25pt;
+    text-align: center;
+}
+#pageCORE {
+    border: 1px solid black;
+    background-color: white;
+    width: 800px;
+    height: 870px;
+    margin-top: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background: linear-gradient(#F4DBDF, #DBD1E9, #CDCFF6, #c7c9f0, #A7B9F7, #64647e, #282331)
+}
+body {
+    background-color: black;
+}
+a:hover {
+    color:#0c0077;
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+img {
+    max-width: 800px;
+}
+/* everything above this line applies to all pages. */
+#Rbody1 {
+    margin-left: 10px;
+    max-width: 500px
+}
+#head2 {
+    display: inline-block;
+    margin-top: -230px;
+    margin-left: 300px;
+}
+#Rbody2 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#Kuni {
+    max-width: 800px;
+    height: auto;
+}
+/* The above section is for the Respect.html file. */
+#Head3 {
+    margin-left: 10px;
+}
+#NSbody1 {
+    margin-left: 10px;
+}
+#NSbody2 {
+    margin-left: 10px;
+}
+#Filterlist {
+    color:blue
+}
+#Filt {
+    width: 100%;
+    height: auto;
+}
+#censor {
+    width: 520px;
+    margin-left: 130px
+}
+/* The above section is for the NoNSFW.html file. */
+#PRbody1 {
+    margin-left: 10px;
+}
+#PRH1 {
+    margin-left: 230px;
+    display: inline-block;
+    margin-top: -180px;
+}
+#wanwan {
+    width: 800px;
+    margin-top: 37px;
+}
+/* The above section is for the Promo.html file. */
+#scaraping {
+    Display: inline-block;
+    height: 534px;
+    margin-left: 500px;
+    margin-top: -486px;
+}
+#Head4 {
+    margin-left: 10px;
+    width: 450px;
+    display: inline-block;
+    margin-top: 10px;
+}
+#Pbody2 {
+    width: 450px;
+}
+#Head5 {
+    Display: inline-block;
+    margin-top: 120px;
+    margin-left: 10px;
+}
+/* The above section is for the Pings.html file. */
+#head6 {
+    display: inline-block;
+    margin-top: -200px;
+    width: 570px;
+    margin-left: 220px;
+}
+#TObody2 {
+    margin-left: 10px;
+    margin-top: -5px;
+}
+/* The above section is for the DiscordTOS.html file. */
+#ticketstuff {
+    list-style-type: num;
+    margin-top: -1px;
+}
+#head8 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#wanwind {
+    margin-top: -16;
+    display: inline-block;
+    height: 390px;
+    margin-left: 55px;
+}
+#head9 {
+    margin-left: 220px;
+    display: inline-block;
+    margin-top: -110px;
+}
+/* The above section is for the Tickets.html file. */
+#head10, #head11, #head12 {
+    margin-left: 10px;
+    width: 780px;
+    margin-top: 40px;
+}
+/* The above section is for the Channels.html file. */
+#Head13 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#wanwave {
+    margin-top: -5px;
+}
