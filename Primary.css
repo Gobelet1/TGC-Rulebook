@@ -45,8 +45,8 @@ img {
     height: 100%;
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin-left: 10vw;
+    margin-right: 10vw;
     background: linear-gradient(#F4DBDF, #DBD1E9, #CDCFF6, #c7c9f0, #A7B9F7, #64647e, #282331);
 }
 body {
