@@ -14,7 +14,8 @@
     background-color:  #674cff13;
 }
 #toptext {
-    width: 750px;
+    min-width: 750px;
+    max-width: 750px;
     margin-left: 20px;
 }
 #MainIndexText {
@@ -35,14 +36,17 @@ a {
     color: black;
 }
 img {
-    width: 800px;
+    min-width: 800px;
+    max-width: 800px;
     height: auto;
 }
 #indexBODY {
     border: 1px solid black;
     background-color: white;
-    width: 800px;
-    height: 850px;
+    min-width: 800px;
+    max-width: 800px;
+    min-height: 850px;
+    max-height: 850px;
     margin-top: 30px;
     margin-left: 25%;
     margin-right: 25%;
