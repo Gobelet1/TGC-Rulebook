@@ -45,7 +45,7 @@ img {
     background-color: white;
     min-width: 800px;
     max-width: 800px;
-    min-height: 850px;
+    height: autopx;
     max-height: 850px;
     margin-top: 30px;
     margin-left: 25%;
