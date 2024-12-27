@@ -43,15 +43,12 @@ img {
 #indexBODY {
     border: 1px solid black;
     background-color: white;
-    min-width: 800px;
-    max-width: 800px;
-    height: 100vh;
+    width: 800px;
+    height: 100vh, 850px;
     min-height: 850px;
-    max-height: 850px;
     margin-bottom: 30px;
     margin-top: 30px;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin: 25%
     background: linear-gradient(#F4DBDF, #DBD1E9, #CDCFF6, #c7c9f0, #A7B9F7, #64647e, #282331)
     
 }
